@@ -1,0 +1,109 @@
+/*
+	Theme Name: Appic Child
+	Theme URI: http://themeforest.net/user/olechka/portfolio
+	Description: Appic Child is a fully responsive business & technology WordPress theme
+	Template: appic
+	Version: 1.0
+*/
+.tab-content p {
+font-size: 14px !important;
+}
+.top-nav{
+background-color: #1077bc !important;
+}
+.top-nav p{
+color: #fff !important;
+}
+.main-nav-wrap {
+background-color: #05263d !important;
+border-top: 1px solid #38ace3 !important;
+}
+
+.blue-line-wrap {
+border-top: #38ace3 !important;
+margin-top: 1px !important;
+}
+.blue-line-wrap:before {
+background: url(https://www.laufcenter.ch/wp-content/uploads/2015/06/circles.png) no-repeat !important;
+}
+
+.footer-widget-wrap {
+background-color: #05263d !important;
+}
+.footer-wrap{
+background-color: #1077bc !important;
+border-top: 1px solid #38ace3;
+}
+.facebook-icon {
+background: url(https://www.laufcenter.ch/wp-content/themes/appic/img/social-icons.png) 0 -490px no-repeat;
+}
+
+
+.foto-pattern {
+background: url(https://www.laufcenter.ch/wp-content/uploads/2015/08/foto-pattern-dark.png) repeat !important;
+}
+
+.style-3 .accordion-heading .accordion-toggle, .style-2 .accordion-heading .accordion-toggle {
+font-size: 16px !important;
+}
+.accordion-inner {
+font-size: 14px !important;
+}
+
+.page-title-margin {
+margin-top: 85px !important;
+}
+.alert {
+font-size: 14px !important;
+}
+.promobox-wrap2 {
+margin-top: -104px !important;
+position: relative !important;
+z-index: 40 !important;
+}
+
+.top-nav p {
+font-size: 14px;
+}
+
+.widget_news_widgets_appic p {
+font-size: 14px;
+}
+
+.widget-news-phone {
+font-size: 14px;
+}
+
+.widget-news-email {
+font-size: 14px;
+}
+
+.widget-news-address {
+font-size: 14px;
+}
+.page-title {
+color: #7ab2d9 !important;
+}
+.page-title > small {
+color: #7ab2d9 !important;
+}
+
+.light-grey-text {
+color: #373536;
+}
+
+.bx-controls-direction .bx-next {
+background: url(https://www.laufcenter.ch/wp-content/uploads/2015/10/bxslider-arrows.png) 0 -40px no-repeat;
+}
+.bx-controls-direction .bx-prev {
+background: url(https://www.laufcenter.ch/wp-content/uploads/2015/10/bxslider-arrows.png) 0 0 no-repeat;
+text-indent: -9999;
+}
+
+a {
+color: #817c7f;
+}
+
+.posts-choose-wrap {
+padding: 0px !important;
+}

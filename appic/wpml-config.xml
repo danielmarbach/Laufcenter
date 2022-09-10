@@ -1,0 +1,34 @@
+<wpml-config>
+	<admin-texts>
+		<key name="appic_theme_options">
+			<key name="top_line_left_text" />
+			<key name="top_line_right_text" />
+			<key name="footer_note" />
+
+			<key name="404_title" />
+			<key name="404_text" />
+			<key name="excerpt_text" />
+			<key name="portfolio_page_title" />
+			<key name="home_ca_title" />
+			<key name="home_ca_subtitle" />
+
+			<key name="home_ca_title_1" />
+			<key name="home_ca_title_hover_1" />
+			<key name="home_ca_description_1" />
+
+			<key name="home_ca_title_2" />
+			<key name="home_ca_title_hover_2" />
+			<key name="home_ca_description_2" />
+
+			<key name="home_ca_title_3" />
+			<key name="home_ca_title_hover_3" />
+			<key name="home_ca_description_3" />
+		</key>
+	</admin-texts>
+	<custom-types>
+		<custom-type translate="1">testimonial</custom-type>
+		<custom-type translate="1">service</custom-type>
+		<custom-type translate="1">project</custom-type>
+		<custom-type translate="1">team</custom-type>
+	</custom-types>
+</wpml-config>
