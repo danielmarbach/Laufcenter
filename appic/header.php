@@ -35,8 +35,8 @@
 				<div class="logo pull-left">
 					<?php get_template_part('includes/templates/logo-link'); ?>
 				</div><!-- .logo -->
-				<div id="navigation-box"  class="pull-right">
-					<a href="#" id="navigation-toggle">
+				<div id="navigation-box" class="pull-right">
+					<a href="#navigation" id="navigation-toggle" data-toggle="collapse" aria-expanded="false" aria-controls="navigation">
 						<span class="menu-icon"></span>
 					</a>
 					<?php

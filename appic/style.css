@@ -7204,19 +7204,19 @@ to {
 }
 
 /*javascript use it*/
-ul#navigation.hiden{
+ul#navigation.collapse{
 	display:none;
 }
 
-ul#navigation.show{
+ul#navigation.collapse.in{
 	display:block;
 }
 
-ul#navigation ul.show{
+ul#navigation ul.collapse.in{
 	display:block;
 }
 
-ul#navigation ul.hiden{
+ul#navigation ul.collapse{
 	display:none;
 }
 
